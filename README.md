@@ -1,4 +1,4 @@
-Revising git commands:
+Revising git commands:\n
 Initialising repository: git init the repository with same name on local
 Adding the file to staging area: git add demo.html
 commiting the file: git commit
